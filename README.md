@@ -1,5 +1,5 @@
-# Ex. No. 7 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1  SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING6.
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -50,8 +50,8 @@
 
 ## Output:
 
-### Name: RAGUL RAAJAN T
-### Register Number: 23007752
+### Name: KAMESH S
+### Register Number: 24006280
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
